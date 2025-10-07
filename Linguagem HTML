@@ -1,0 +1,7 @@
+	Tags: delimitam o início e fim de um elemento HTML.
+• 	Corpo: é o conteúdo entre as tags.
+• 	Atributos: adicionam informações extras à tag, como estilo ou comportamento.
+• 	Elemento vazio: É aquele mecanismo que não tem conteúdo e nem tag de fechamento e sua função é inserir algo direto na página.
+Exemplos:
+• <br> = quebra de linha
+• <img>	 = imagem
