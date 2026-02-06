@@ -1,16 +1,15 @@
-html { font-size: 20px; }
-html h1 { font-size: 2rem; } /* 2 * 20 = 40px */
-h1 > .principal { font-size: 1.4em; } /* 1.4 * 40 = 56px */
-html .secundario { font-size: 1.4rem; } /* 1.4 * 20 = 28px */
-
-.color{
-    background: rgb(219, 78, 68);
+a {
+    color:red;
 }
 
-.cor-clara {
-    background: rgb(252, 90, 78);
+a:hover {
+    color:lime;
 }
 
-.cor-escura {
-    background: rgb(186, 66, 58);
+p {
+    font-family: "Arial";
+}
+
+h1 + p {
+    font-weight: bold;
 }
