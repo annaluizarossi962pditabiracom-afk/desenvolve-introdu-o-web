@@ -1,15 +1,11 @@
-a {
-    color:red;
-}
+/* Color Theme Swatches in Hex */
+/*
+.principal { color: #F2133C; }
+.background { color: #0A3B59; }
+.destaque { color: #F2B9AC; }
+*/
 
-a:hover {
-    color:lime;
-}
-
-p {
-    font-family: "Arial";
-}
-
-h1 + p {
-    font-weight: bold;
+html {
+    background: #0A3B59;
+    color: #F2133C;
 }
